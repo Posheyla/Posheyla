@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Luisa 👋
 
-<!--
-**Posheyla/Posheyla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Electrical Engineering @ NC State  
+Focused on robotics, nonlinear control, machine learning, and intelligent autonomous systems.
 
-Here are some ideas to get you started:
+## Research Interests
+- Robotics & Autonomous Systems
+- Safe Control (CLF-CBF)
+- Nonlinear Dynamical Systems
+- Machine Learning & Computer Vision
+- Intelligent Sensing Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Quadrotor Navigation using RRT* + CLF-CBF-QP
+- Robust CNN-Based Plant Disease Classification
+- ROS-Based Waste Sorting System
+- Wearable Health Monitoring Smart Shirt
+
+## Tech Stack
+Python • MATLAB • ROS • PyTorch • CoppeliaSim • Control Systems
+
+📫 LinkedIn: https://www.linkedin.com/in/luisa-ch%C3%A1vez-v%C3%A1squez/
